@@ -121,7 +121,7 @@ Grazie a tutti coloro che hanno contribuito a questo progetto!
 
 ---
 
-## 📜 Licenza
+## 📜 Licenza .
 
 © ChatUnity-Bot. Tutti i diritti riservati. Consulta la licenza per i dettagli.
 
