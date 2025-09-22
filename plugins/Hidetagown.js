@@ -53,9 +53,9 @@ let handler = async (m, { conn, text, participants }) => {
   }
 }
 
-handler.command = /^(hidetag|tag)$/i
+handler.command = /^(hidetagown|tagown)$/i
 handler.group = true
-handler.admin = true
+handler.rowner = true
 handler.botAdmin = true
 
 export default handler

@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/9mWwC5PP/Whats-App-Image-2025-07-06-at-23-32-06.jpg" width="400">
 </p>
 
-<h1 align="center">© ChatUnity-Bot 6.0 🤖</h1>
+<h1 align="center">© ChatUnity-Bot 6.1 🤖</h1>
 <p align="center"><strong>Un bot avanzato per WhatsApp, ricco di funzionalità e divertimento!</strong></p>
 
 <p align="center">
@@ -38,11 +38,11 @@
 
 ```bash
 termux-setup-storage
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv
-cd /sdcard
+```
+```bash
+apt update -y && yes | apt upgrade -y && pkg install -y bash wget mpv && \
 wget -O - https://raw.githubusercontent.com/chatunitycenter/chatunity-bot/main/chatunity.sh | bash
 ```
-
 ---
 
 ## 🔄 Riavvia il bot (Termux)
@@ -102,7 +102,7 @@ pm2 logs
 
 ## 📂 Risorse Utili
 
-- **Dashboard GitHub**: [Visita qui](https://github.com/chatunity-bot)
+- **Dashboard GitHub**: [Visita qui](https://github.com/chatunitycenter)
 - **Canale WhatsApp**: [Unisciti qui](https://whatsapp.com/channel/0029VaZVlJZHwXb8naJBQN0J)
 - **Contatto**: [Scrivi qui](https://wa.me/393515533859)
 - **Collaborazioni**: [Partecipa qui](https://whatsapp.com/channel/0029Vb1C4od5vKA35u1Mqc06)
